@@ -13,7 +13,6 @@ const loadPrompt=async(prompt)=>{
     await onSent(prompt)
 }
 
-
   return (
    <div className='sidebar'>
    <div className="top">
